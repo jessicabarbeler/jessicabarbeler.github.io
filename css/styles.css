@@ -133,6 +133,22 @@ hr {
     color: #11999E;
 }
 
+.contact-box {
+    background-color: #7fd6d6;
+    display: block;
+    width: 30%;
+    margin: auto; 
+    margin-bottom: 30px;
+    padding: 80px 50px 80px 50px;
+    
+}
+.contact-box ul{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: left;
+    color: #e5f9fa;
+}
+
 .footer-link {
     color: #11999E;
     display: inline-block;
