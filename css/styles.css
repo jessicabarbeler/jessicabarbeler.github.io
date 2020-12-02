@@ -3,17 +3,29 @@ body {
     text-align: center;
 }
 
-.top-container {
+#title {
     position: relative;
-    padding: 10%;
-    padding-bottom: 20%;
     background-color: #ffd1dc;
 }
-
-.btn-lg {
-    margin-top: 20%;
+.title {
+    margin-top: 15%;
 }
-/* .skill-row {
+
+.btn {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+/* }
+ .skill-row {
     width: 50%;
     margin: 100px auto;
     text-align: left;
@@ -39,9 +51,9 @@ body {
 .skills {
     margin-top: 50px;
     margin-bottom: 100px;
-}
+} */
 
-.contact-me {
+/* .contact-me {
     margin-top: 50px;
     margin-bottom: 100px;
 }
@@ -88,11 +100,11 @@ body {
 
 .footer-information {
     margin-top: 40px;
-}
+} */
 
 /** button styling **/
 
-.btn {
+/* .btn {
 	box-shadow: 0px 0px 0px 2px #9fb4f2;
 	background:linear-gradient(to bottom, #a1d6e6 5%, #32a4b3 100%);
 	background-color:#a1d6e6;
@@ -115,4 +127,4 @@ body {
 .btn:active {
 	position:relative;
 	top:1px;
-} */
+} */ */
